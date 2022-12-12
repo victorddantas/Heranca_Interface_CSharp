@@ -1,4 +1,4 @@
-# Heranca e Interface em CSharp
+# Herançaa e Interface em CSharp
 Exemplo de utilização de interface em C#
 
 A interface funciona como um "contrato" de que define um determinado conjunto de métodos que devem ser implementados pelas classe que "assinarem" esse contrato.
